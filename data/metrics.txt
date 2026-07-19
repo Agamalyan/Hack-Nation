@@ -1,0 +1,14 @@
+Genome Firewall Model Evaluation
+===============================
+
+              precision    recall  f1-score   support
+
+           0       0.82      0.97      0.89     19341
+           1       0.67      0.21      0.32      5097
+
+    accuracy                           0.81     24438
+   macro avg       0.75      0.59      0.60     24438
+weighted avg       0.79      0.81      0.77     24438
+
+
+ROC-AUC: 0.831
